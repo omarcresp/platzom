@@ -27,8 +27,11 @@ platzom("abecedario") // abece-dario
 platzom("sometemos") // SoMeTeMoS
 ```
 
+## Creditos
+- [Omar Crespo](https://twitter.com/JackCres_)
+
 ## Agredecimientos
-- Profresor: [Sacha Lifszyc](https://twitter.com/@slifszyc)
+- Profresor: [Sacha Lifszyc](https://twitter.com/sachalifs)
 
 ## Licencia
 
