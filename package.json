@@ -4,7 +4,6 @@
   "description": "Traductor de idioma platzom",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -18,8 +17,4 @@
   ],
   "author": "Omar Crespo <crespomerchano@gmail.com> (omarcrespo.com.ve)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/omarcresp/platzom/issues"
-  },
-  "homepage": "https://github.com/omarcresp/platzom#readme"
 }
